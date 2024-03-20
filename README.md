@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Paco-Danes, 20 Years Old
 - 👀 I’m interested in Science, Technology, AI, Business, Sports
-- 🌱 I’m currently learning Computer Science (AI orienteed) At Sapienza University of Rome
-- 📫 devinson2001@gmail.com
+- 🌱 I have a bachelor's degree in Applied Computer Science and Artificial Intelligence
+- 📫 francescodanese01@gmail.com
