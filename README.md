@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Paco-Danes, 23 Years Old
-- 👀 I’m interested in Science, Technology, AI, Business, Sports
+- 🎓 Master's Degree student in Artificial Intelligence & Robotics
 - 🌱 I have a bachelor's degree in Applied Computer Science and Artificial Intelligence
+- 👀 I’m interested in Science, Technology, AI, Business, Sports
 - 📫 francescodanese01@gmail.com
