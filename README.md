@@ -2,5 +2,6 @@
 - 🇨🇭  Currently at EPFL with a scolarship for Thesis project
 - 🎓 Master's Degree student in Artificial Intelligence & Robotics
 - 🌱 I have a bachelor's degree in Applied Computer Science and Artificial Intelligence
+- 🧑🏻‍🏫 Attended Oxford Machine Learning summer school 2024
 - 👀 I’m interested in Science, Technology, AI, Business, Sports
 - 📫 francescodanese01@gmail.com
