@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paco-Danes, 23 Years Old
+- 👋 Hi, I’m @Paco-Danes, 24 Years Old
 - 🇨🇭  Currently at EPFL with a scolarship for Thesis project
 - 🎓 Master's Degree student in Artificial Intelligence & Robotics
 - 🌱 I have a bachelor's degree in Applied Computer Science and Artificial Intelligence
