@@ -5,3 +5,4 @@
 - 🧑🏻‍🏫 Attended Oxford Machine Learning summer school 2024
 - 👀 I’m interested in Science, Technology, AI, Business, Sports
 - 📫 francescodanese01@gmail.com
+- 👥 https://www.linkedin.com/in/fra-danese-ai
