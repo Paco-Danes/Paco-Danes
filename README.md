@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paco-Danes, 25 Years Old
-- 🇨🇭  Currently at EPFL with a scolarship for Thesis project
+- 🇨🇭  Currently a Machine Learning Engineer working at EPFL 
 - 🎓 Master's Degree student in Artificial Intelligence & Robotics
 - 🌱 Bachelor's degree in Applied Computer Science and Artificial Intelligence
 - 🧑🏻‍🏫 Attended Oxford Machine Learning summer school 2024
